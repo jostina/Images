@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>LINKS IN HTML</title>
+    </head>
+    <body>
+
+        <a href="https://google.com">visit Google.com</a>
+
+        <img src="images\C:\Users\user\Documents\web development\OIP.jpg" 
+        alt="This is an Elephant"
+        width="300"
+        height="300"
+        title="African Elephant"
+        >
+        <br>
+        <a href="mailto:eddy@powerlearnproject.org">send an email to Eddy</a>
+        <br>
+        <a href="0723783456">call eddy</a>
+
+        <br>
+
+        <a href="newsletter">Go to Newsletter.</a>
+
+        <section id="newsletter">
+            <p>This is the newsletter</p>
+        </section>
+    </body>
+</html>
